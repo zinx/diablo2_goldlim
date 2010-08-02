@@ -1,0 +1,16 @@
+*** CURRENTLY FOR 1.12A ONLY ***
+
+Customize the multiplier for maximum gold in the inventory and stash.
+
+Install:
+	* Copy goldlim.dll to your game or mod dir
+	* Load goldlim.dll with a loader (PlugY, etc)
+
+Configure:
+	* Copy goldlim.ini to your game or mod dir
+	* Edit as needed
+
+Site:
+	http://zenthought.org/project/diablo2
+
+- zinx <zinx@zenthought.org>
